@@ -1,5 +1,5 @@
 # Car-Drift-Dynamics-Demo
-Car drift dynamics 3D demo
+Click the image to try it out!
 
 <p align="center">
   <a href="https://camelcasesensitive.github.io/Car-Drift-Dynamics-Demo/">
